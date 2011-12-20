@@ -1,3 +1,4 @@
+derp
 import XMonad 
 import XMonad.Config.Xfce
 import XMonad.Hooks.DynamicLog
